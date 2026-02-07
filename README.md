@@ -221,8 +221,8 @@ Screenshots of the application, monitoring dashboards, and alerts are available 
 📌 Cloud & DevOps Engineer  
 📌 Actively seeking opportunities
 
-LinkedIn: https://linkedin.com/in/your-profile  
-GitHub: https://github.com/your-username  
+LinkedIn: https://linkedin.com/in/rinas-ck
+GitHub: https://github.com/rinas-ck  
 
 ---
 
