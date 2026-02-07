@@ -188,7 +188,7 @@ Screenshots of the application, monitoring dashboards, and alerts are available 
 ![Website](screenshots/register.png)
 
 ### Login Page 
-![Website](screenshots/signin.png)
+![Website](screenshots/sign-in.png)
 
 ### Application Page
 ![Application](screenshots/website.png)
