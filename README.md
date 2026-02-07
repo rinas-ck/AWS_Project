@@ -222,6 +222,7 @@ Screenshots of the application, monitoring dashboards, and alerts are available 
 📌 Actively seeking opportunities
 
 LinkedIn: https://linkedin.com/in/rinas-ck
+
 GitHub: https://github.com/rinas-ck  
 
 ---
